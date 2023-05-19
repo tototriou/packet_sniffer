@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "inc.h": "c",
+        "ip.h": "c",
+        "if_arp.h": "c",
+        "bootp.h": "c",
+        "ip_4.h": "c",
+        "arg.h": "c",
+        "tcp.h": "c",
+        "ethernet.h": "c",
+        "stdnoreturn.h": "c",
+        "ether.h": "c",
+        "inttypes.h": "c",
+        "ctype.h": "c",
+        "if_ether.h": "c",
+        "udp.h": "c",
+        "ip6.h": "c"
+    }
+}
